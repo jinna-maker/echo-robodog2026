@@ -323,7 +323,8 @@ This project demonstrates how a small robot can be used as a safety assistant an
 
 ---
 
-## 🙌 Creator
+👉 **Download Model on MakerWorld:** [https://makerworld.com/en/@jinna.maker]
 
+## 🙌 Creator
 **Jinna Arunplod**
 AIT International School
