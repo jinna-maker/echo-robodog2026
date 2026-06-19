@@ -9,11 +9,7 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/Status-Prototype-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-ESP32-green?style=for-the-badge)
-![Sensor](https://img.shields.io/badge/Sensor-MQ135-orange?style=for-the-badge)
-![Design](https://img.shields.io/badge/Design-3D%20Printed-purple?style=for-the-badge)
-![Education](https://img.shields.io/badge/STEM-Learning-red?style=for-the-badge)
+![Design](images/echo01.png)
 
 <br>
 
@@ -363,8 +359,11 @@ Although it is currently a prototype for learning and demonstration, it has stro
 * Open-source STEM learning platform
 
 ---
+![Design](images/echo02.png)
 
 ## 🙏 Credits
+
+3D Model Download >> https://makerworld.com/en/@jinna.maker
 
 **Project by:** Jinna Arunplod
 **School:** AIT International School
