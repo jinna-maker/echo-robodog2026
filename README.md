@@ -247,6 +247,8 @@ OLED shows alert face
 Speaker plays barking sound
 ```
 
+![ECHO RoboDOG Design](images/echo02.png)
+
 ---
 
 ## 🔊 Sound System
@@ -308,7 +310,6 @@ Possible future upgrades include:
 * Create stronger 3D-printed body parts
 * Add wireless data logging
 
-![ECHO RoboDOG Design](images/echo02.png)
 
 ---
 
