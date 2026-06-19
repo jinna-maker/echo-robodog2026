@@ -3,13 +3,6 @@
 ## หุ่นยนต์สุนัขอัจฉริยะเพื่อการตรวจวัดและตอบสนองด้านความปลอดภัย  
 ### A Smart Robot Dog for Modular Sensing and Safety Response
 
-![Project Status](https://img.shields.io/badge/status-prototype-blue)
-![Platform](https://img.shields.io/badge/platform-ESP32-green)
-![Sensor](https://img.shields.io/badge/sensor-MQ135-orange)
-![License](https://img.shields.io/badge/license-Open%20Source-lightgrey)
-
----
-
 ## 📌 Project Overview
 
 **ECHO RoboDOG** is a small smart robot dog prototype designed for environmental sensing and safety response.  
